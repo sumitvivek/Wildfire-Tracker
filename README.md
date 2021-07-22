@@ -13,6 +13,9 @@ npm run build
 or
 yarn build
 ```
+### Screenshots
+>On local machine
+
 
 ## API Keys
 
